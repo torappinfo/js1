@@ -48,7 +48,7 @@
         c._cac = '';
         c._cam = '';
         c._ctkk = '432824.2057614349';
-        var h = 'translate.googleapis.com';
+        var h = 'fanyi.nr19.cn';
         var s = (true ? 'https': window.location.protocol == 'https:' ? 'https': 'http') + '://';
         var b = s + h;
         c._pah = h;
